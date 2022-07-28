@@ -1,0 +1,12 @@
+1.- Validar que para iniciar sesión solicite correo electrónico y contraseña
+2-. Validar que puede iniciar sesión desde cualquier dispositivo
+3.- Validar que permite iniciar sesión con las credenciales que ingreso durante el registro.
+4.- Validar que permite iniciar sesión en varios dispositivos simultáneamente.
+5.- Validar que permite iniciar sesión con una contraseña restaurada.
+6.-Validar que permite iniciar sesión con una contraseña que ha sido actualizada desde el perfil.
+7.- Validar que un usuario con la cuenta no validada, no permita iniciar sesión.
+8.- Validar que no permite iniciar sesión a un usuario que tiene el acceso denegado.
+9.- Validar que permite iniciar sesión a usuario registrados por un administrador de la organización.
+10.- Validar que permite iniciar sesión a usuario registrados por un administrador del sistema.  
+11.- Validar que permita iniciar sesión con los diferentes tipos de usuarios.
+12.- Validar que muestra su información personalmente identificable del usuario identificado en la sesión iniciada.
